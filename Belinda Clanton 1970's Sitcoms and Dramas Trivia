@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>1970’s Television Trivia</title>
+</head>
+<body>
+    <h1>1970’s Television Trivia Quiz</h1>
+    <img src="./Coding Assignment/1970's image (1).jpg alt="shows from the 70's">
+    <P><i>Do you know these trivia facts about 1970's sitcoms and dramas?</i></P>
+
+<ol>
+    <li><p>Which Police Detective Show Drove a Red Sports Car with a White Stripe?</p></li>
+    <ul>
+        <li>A. Barretta</li>
+        <li>B. Kojak</li>
+        <li>C. Starsky and Hutch</li>
+    </ul>
+    <li><p>Which Sitcom show had Arnold’s Malt Shop?</p></li>
+    <ul>
+        <li>A. What's Happening</li>
+        <li>B. Happy Days</li>
+        <li>C. The Patridge Family</li>
+    </ul>
+    <li><p>What is the name of this Family Sitcom?</p></li>
+    <img src="./Coding Assignment/TelevisionShows_GoodTimes.jpg"> alt="The Television Show Good Times.">
+    <ul>
+        <li>A. Good Times</li>
+        <li>B. The Jeffersons</li>
+        <li>C. Eight is Enough</li>
+    </ul>
+    <li><p>Which show was set in Buchannan High School?</p></li>
+    <ul>
+        <li>A. Welcome back Kotter</li>
+        <li>B. Three's Company</li>
+        <li>C. Mork and Mindy</li>
+
+        <li><p>Which actress played Jennifer Marlow in the show WKRP in Cincinatti?</p></li>
+    <ul>
+        <li>A. Farrah Fawcett</li>
+        <li>B. Suzanne Somers</li>
+        <li>C. Lonnie Anderson</li>
+</ol>
+<h3>Finished</h3>
+<a href="./Belinda Clanton Coding Answer Key">See answer key</a>
+</body>
+
+
+</html>
+
+Answer Key
+<!DOCTYPE html>
+<html> lang="en">
+    <head>
+        <title>Belinda Clanton's Answer Key to Quiz</title>
+    </head>
+    <body>
